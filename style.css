@@ -1,0 +1,19 @@
+body.dark-mode {
+    background-color: #000;
+    color: #fff;
+}
+
+body.light-mode {
+    background-color: #fff;
+    color: #000;
+}
+
+.header-one {
+    font-size: 3rem;
+}
+
+.btn-toggle-theme {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+}
